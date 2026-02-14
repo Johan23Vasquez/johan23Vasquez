@@ -1,4 +1,4 @@
-#¡Hola! Soy Johan Antonio Vásquez Aquino
+##¡Hola! Soy Johan Antonio Vásquez Aquino
 
 ### 🎓 Estudiante de Ingeniería en Computación  
 Estudiante de quinto semestre en la Universidad Tecnológica de la Mixteca, apasionado por el desarrollo web, la tecnología y la creación de soluciones que aporten valor. Actualmente en formación para convertirme en un ingeniero competente y capaz, con interés en seguir aprendiendo y mejorar cada día.
